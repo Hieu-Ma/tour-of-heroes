@@ -20,15 +20,15 @@
   background-color: #e6e6e6;
   left: .1em;
 }
-.heroes li.selected {
+.heroes li.peanut {
   background-color: black;
   color: white;
 }
-.heroes li.selected:hover {
+.heroes li.peanut:hover {
   background-color: #505050;
   color: white;
 }
-.heroes li.selected:active {
+.heroes li.peanut:active {
   background-color: black;
   color: white;
 }
@@ -50,3 +50,4 @@
 input {
   padding: .5rem;
 }
+
